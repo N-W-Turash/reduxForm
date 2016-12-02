@@ -1,0 +1,28 @@
+body{
+    background: #484848;
+    color:white;
+
+}
+
+#root{
+    margin: 50px auto 30px;
+    max-width: 601px;
+    background: white;
+    color: black;
+    padding: 1em;
+    text-align: center;
+}
+
+input, textarea, select{
+    margin-left: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+label{
+    margin-right:10px;
+}
+
+input[type=submit]{
+    margin-top:20px;
+}
